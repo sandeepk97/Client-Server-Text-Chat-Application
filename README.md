@@ -126,7 +126,7 @@ The blocked command runs on the server side. It displays numbered list of all th
 
 ![](images/Aspose.Words.04ad66a0-b999-4229-bc71-a586c5b53f13.015.png)
 
-**[2.5] UNBLOCK (unblock)**
+** UNBLOCK (unblock)**
 
 
 
@@ -137,7 +137,7 @@ The blocked command runs on the server side. It displays numbered list of all th
 UNLOCK command unblocks a previously blocked client with IP address. Client IP address is removed from the list of blocked clients by the method removeBlock().
 
 ![](images/Aspose.Words.04ad66a0-b999-4229-bc71-a586c5b53f13.017.png).
-## <a name="_8hjg55uonh69"></a> (buffer)
+## <a name="_8hjg55uonh69"></a> BUFFER (buffer)
 
 
 ![](images/Aspose.Words.04ad66a0-b999-4229-bc71-a586c5b53f13.018.png)
