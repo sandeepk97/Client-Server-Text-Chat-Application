@@ -126,7 +126,7 @@ The blocked command runs on the server side. It displays numbered list of all th
 
 ![](images/Aspose.Words.04ad66a0-b999-4229-bc71-a586c5b53f13.015.png)
 
-** UNBLOCK (unblock)**
+## UNBLOCK (unblock)
 
 
 
