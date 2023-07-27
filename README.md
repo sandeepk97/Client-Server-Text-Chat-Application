@@ -1,19 +1,7 @@
 ﻿
 **Text Chat Application**
 
-![](images/Aspose.Words.04ad66a0-b999-4229-bc71-a586c5b53f13.001.png)
-
-**Description:**
-
-When AUTHOR shell command is executed in server and client side, the output will be printed as below. Grader returned TRUE for author test.
-
-![](images/Aspose.Words.04ad66a0-b999-4229-bc71-a586c5b53f13.002.png)
-
-**Implementation:**
-
-For implementation, a variable name called UBIT\_NAME is declared and the ubitname is printed with the required format as shown in below code snippet.
-
-![](images/Aspose.Words.04ad66a0-b999-4229-bc71-a586c5b53f13.003.png)
+## COMMANDS:
 ## <a name="_mcc2nl98avia"></a> SEND (send)
 
 
